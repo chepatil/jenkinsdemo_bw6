@@ -413,9 +413,8 @@
                                     <value
                                     endTime="2018-12-18T15:42:47.351+0530"
                                     intervalUnit="Second"
-                                    runOnce="true"
                                     startTime="2018-12-18T15:42:47.351+0530"
-                                    timeInterval="1" xsi:type="generalactivities:Timer"/>
+                                    timeInterval="5" xsi:type="generalactivities:Timer"/>
                                 </properties>
                             </activityConfig>
                         </bwext:BWActivity>
