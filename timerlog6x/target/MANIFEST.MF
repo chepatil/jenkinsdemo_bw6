@@ -1,4 +1,4 @@
-Manifest-Version: 1.0.0.201812182103
+Manifest-Version: 1.0.0.201812182118
 Bundle-SymbolicName: timerlog6x
 Bundle-ManifestVersion: 2
 TIBCO-BW-Edition: bwe
@@ -9,7 +9,7 @@ Require-Capability: com.tibco.bw.model; filter:="(name=bwext)",com.tib
 TIBCO-BW-ConfigProfile: META-INF/default.substvar
 TIBCO-BW-Version: 2.4.2 V99 2018-11-21
 Bundle-Name: Timerlog6x Module
-Bundle-Version: 1.0.0.201812182103
+Bundle-Version: 1.0.0.201812182118
 Bundle-ClassPath: .
 TIBCO-BW-ApplicationModule: META-INF/module.bwm
 TIBCO-BW-JobSharedVariables: META-INF/module.jsv
